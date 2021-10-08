@@ -6,6 +6,7 @@ I'm Chris, a data scientist and human-centered design strategist: a data hacker,
 - 🌱 I’m currently in my final semester of the University of Michigan's Applied Data Science program, beginning work on my Capstone project.
 - 📫 How to reach me: westendorf {/dot/} chris {/@/} gmail.com
 - 😄 Pronouns: he/him
+- 🧑‍🎨 Fun fact, I used to be a design director. http://www.chriswestendorf.com/
 
 ## 💻 Computational Languages
 - Python
