@@ -3,7 +3,7 @@
 I'm Chris, a data scientist and human-centered design strategist: a data hacker, analyst, designer and communicator with over a decade of work and leadership experience. Having recently pivoted from design and product direction to data science, I am committed to helping businesses drive strategic decision making and impact through data management and analysis.
 
 - 🔭 I’m currently working with organizational psychologists and management consultants to turn psychometrics into data products. [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chriswestendorf/)
-- 🌱 I graduated from the University of Michigan's Applied Data Science program.
+- 🌱 I graduated from the University of Michigan's Master of Applied Data Science program.
 - 📫 How to reach me: westendorf {/dot/} chris {/@/} gmail.com
 - 😄 Pronouns: he/him
 - 🧑‍🎨 Fun fact, I used to be a design director. http://www.chriswestendorf.com/
